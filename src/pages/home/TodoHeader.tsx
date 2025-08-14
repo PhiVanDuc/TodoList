@@ -26,7 +26,7 @@ export default function TodoHeader() {
                         className="flex items-center gap-[8px] px-[15px] py-[10px] cursor-pointer"
                         onClick={() => { signOutService() }}
                     >
-                        Đăng nhập
+                        Đăng xuất
                     </DropdownMenuItem>
                 </DropdownMenuContent>
             </DropdownMenu>
